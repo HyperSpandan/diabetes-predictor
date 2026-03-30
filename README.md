@@ -59,7 +59,7 @@ scikit-learn
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/your-username/diabetes-predictor.git
+git clone https://github.com/HyperSpandan/diabetes-predictor.git
 cd diabetes-predictor
 ```
 
